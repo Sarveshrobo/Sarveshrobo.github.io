@@ -1,0 +1,14 @@
+baseURL = "https://Sarveshrobo.github.io/"
+languageCode = "en-us"
+title = "Dr. Sarvesh Saini"
+theme = "researcher"
+
+[params]
+author = "Dr. Sarvesh Saini"
+description = "Postdoctoral Researcher in Robotics and Control Systems"
+
+[[menu.main]]
+name = "CV"
+url = "/cv/"
+weight = 50
+
